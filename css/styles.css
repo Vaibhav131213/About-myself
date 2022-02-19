@@ -1,0 +1,49 @@
+body
+{
+  background-color: #FFEDDB;
+}
+hr
+{
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width:5px;
+  height:0px;
+  width:5%;
+}
+img
+{
+  height: 200px;
+}
+h1
+{
+  color: #66BFBF;
+}
+h2
+{
+  color: #66BFBF;
+}
+h3
+{
+  color: #66BFBF;
+}
+a href
+{
+  color: #1C6DD0;
+}
+table
+{
+  color: #1C6DD0;
+}
+.circular
+{
+  border-radius: 200%;
+}
+#heading:hover
+{
+  color: red;
+}
+img:hover
+{
+  color: gold;
+}
